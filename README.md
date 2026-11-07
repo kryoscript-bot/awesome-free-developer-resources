@@ -27,6 +27,7 @@ Stunning visuals, assets, and assets to make your project look highly profession
 * ⬡ **Lucide Icons / FontAwesome** - Thousands of modern, clean, and easily customizable icons for UI development.
 * 🔡 **Google Fonts** - Massive library of open-source web fonts ready to use in any application.
 * 🎨 **Coolors** - Superfast color palette generator to create beautiful color schemes in one click.
+* 🎨 **[ASCII Images](https://ascii-images.com/)** - Free no-account browser tools for static ASCII artwork, FIGlet banners and plain-text diagrams.
 
 ## 🤖 Free AI Tools for Devs
 Boost your coding speed, debugging capacity, and productivity by 10x:
